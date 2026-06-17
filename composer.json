@@ -1,5 +1,5 @@
 {
-    "name": "lostinfo/hyperf-nestedset",
+    "name": "laraveladmin/hyperf-nestedset",
     "description": "Nested Set Model for Hyperf 2.0 and up",
     "license": "MIT",
     "authors": [
